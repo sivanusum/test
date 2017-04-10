@@ -1,10 +1,1 @@
- Volume in drive F is New Volume
- Volume Serial Number is D40C-BC95
-
- Directory of F:\myproject
-
-04/10/2017  08:25 PM    <DIR>          .
-04/10/2017  08:25 PM    <DIR>          ..
-04/10/2017  08:25 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  67,648,671,744 bytes free
+sdfsdfsdfsdfxvsxdf
